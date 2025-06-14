@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+spacy
+pymupdf
+python-docx
+sentence-transformers
+streamlit
+python-multipart
+requests
